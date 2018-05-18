@@ -41,7 +41,9 @@ public class BlockchainServerRunnable implements Runnable{
                 switch (request) {
                     case "cc" :
                         outWriter.close();
-                        break;
+                        inputReader.close();
+                        clientSocket.close();
+                        return;
                     case "pb" :
                         outWriter.print(blockchain.toString() + "\n");
                         outWriter.flush();

@@ -9,8 +9,13 @@ public class BlockchainServer {
         if (args.length != 1) {
             return;
         }
-
-        int portNumber = Integer.parseInt(args[0]);
+        int portNumber;
+        try {
+             portNumber = Integer.parseInt(args[0]);
+        } catch (NumberFormatException nfe) {
+            System.err.println("Port given was not a number");
+            return;
+        }
         Blockchain blockchain = new Blockchain();
 
         PeriodicCommitRunnable pcr = new PeriodicCommitRunnable(blockchain);
@@ -29,6 +34,8 @@ public class BlockchainServer {
             }
         } catch (IOException e) {
             e.printStackTrace();
+        } catch (IllegalArgumentException iae) {
+            System.err.println("Port value out of range");
         }
 
         // implement your code here
