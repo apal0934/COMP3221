@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e23d94b-2675-46e1-aaba-e1752fefdf22" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assignment 2/BlockchainClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment 2/BlockchainClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assignment 2/BlockchainClientRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment 2/BlockchainClientRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assignment 2/BlockchainServerRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment 2/BlockchainServerRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assignment 2/ServerInfoList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment 2/ServerInfoList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Assignment 2/info.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BlockchainClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlockchainClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BlockchainClientRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlockchainClientRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BlockchainServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlockchainServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BlockchainServerRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlockchainServerRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ServerInfoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServerInfoList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/BlockchainServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/BlockchainServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/BlockchainServerRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/BlockchainServerRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tutorials/Week 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tutorials/Week 4/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2e23d94b-2675-46e1-aaba-e1752fefdf22" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,7 +33,7 @@
       <file leaf-file-name="ServerInfoList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ServerInfoList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1016">
+            <state relative-caret-position="1305">
               <caret line="97" column="13" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
             </state>
           </provider>
@@ -112,7 +96,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="1745" />
+    <option name="x" value="1720" />
     <option name="y" value="27" />
     <option name="width" value="1720" />
     <option name="height" value="1356" />
@@ -124,6 +108,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,14 +125,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment 3" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -234,18 +218,19 @@
       <workItem from="1525326214542" duration="2230000" />
       <workItem from="1525349608894" duration="15585000" />
       <workItem from="1525425264179" duration="1035000" />
+      <workItem from="1527564439729" duration="231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42606000" />
+    <option name="totallyTimeSpent" value="42837000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1745" y="27" width="1720" height="1356" extended-state="4" />
+    <frame x="1720" y="27" width="1720" height="1356" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.329582" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -272,6 +257,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329582" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -660,7 +646,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ServerInfoList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1016">
+        <state relative-caret-position="1305">
           <caret line="97" column="13" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
         </state>
       </provider>
